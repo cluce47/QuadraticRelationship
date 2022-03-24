@@ -40,6 +40,7 @@ class Main {
   
       }
     } while (choice!=4);
+    System.out.println("Thank you and good-bye!");
     in.close();
   }
 }
